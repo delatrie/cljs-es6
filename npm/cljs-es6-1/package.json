@@ -1,0 +1,19 @@
+{
+  "name": "@delatrie/cljs-es6-1",
+  "version": "0.0.1",
+  "description": "A package to test cljs/npm interop. Contains a function exported in a es6 way. No dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delatrie/cljs-es6.git"
+  },
+  "author": "Maksim Stepanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delatrie/cljs-es6/issues"
+  },
+  "homepage": "https://github.com/delatrie/cljs-es6#readme"
+}
