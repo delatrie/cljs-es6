@@ -1,7 +1,8 @@
 {:paths ["src" "target"]
  :deps {org.clojure/clojure {:mvn/version "1.10.1"}
         org.clojure/clojurescript {:mvn/version "1.10.773"}}
- :aliases {:release {:main-opts ["-m" "cljs-es6.build"]}
+ :aliases {:release {:main-opts ["-m" "cljs-es6.build" "release"]}
+           :debug {:main-opts ["-m" "cljs-es6.build" "debug"]}
            :server {:extra-deps {http-kit {:mvn/version "2.3.0"}
                                  compojure {:mvn/version "1.6.1"}}
                     :extra-paths ["resources"]

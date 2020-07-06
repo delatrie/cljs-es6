@@ -1,7 +1,7 @@
 {
-  "name": "@delatrie-org/cljs-es6-1",
-  "version": "0.0.2",
-  "description": "A package to test cljs/npm interop. Contains a function exported in a es6 way. No dependencies",
+  "name": "@delatrie-org/cljs-es6-3",
+  "version": "0.0.3",
+  "description": "A package to test cljs/npm interop. Contains a function exported in a es6 way as a default. No dependencies",
   "main": "index.js",
   "module": "index.js",
   "type": "module",
@@ -17,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/delatrie/cljs-es6/issues"
   },
-  "homepage": "https://github.com/delatrie/cljs-es6#readme"
+  "homepage": "https://github.com/delatrie/cljs-es6#readme",
+  "dependencies": {
+  }
 }
