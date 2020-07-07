@@ -11,7 +11,8 @@
   "dependencies": {
     "@delatrie-org/cljs-es6-1": "0.0.2",
     "@delatrie-org/cljs-es6-2": "0.0.3",
-    "@delatrie-org/cljs-es6-3": "0.0.3"
+    "@delatrie-org/cljs-es6-3": "0.0.3",
+    "@delatrie-org/cljs-es6-4": "0.0.3"
   },
   "type": "module"
 }
